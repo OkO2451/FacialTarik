@@ -1,4 +1,4 @@
 mkdir Faces
-pip install opencv-python
 python -m pip install --upgrade pip
+pip install opencv-python
 python FacialRecognition.py
